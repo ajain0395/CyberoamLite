@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Ashish\OneDrive\Cyberoam\CyberoamLite\CyberoamLite\bin\ARM\Release\CyberoamLite_1.3.0.0_ARM.appx
+SymbolPackage=C:\Users\Ashish\OneDrive\Cyberoam\CyberoamLite\CyberoamLite\AppPackages\CyberoamLite_1.3.0.0_Test\CyberoamLite_1.3.0.0_ARM.appxsym
+ResourcePack=C:\Users\Ashish\OneDrive\Cyberoam\CyberoamLite\CyberoamLite\bin\ARM\Release\CyberoamLite_1.3.0.0_scale-100.appx
+ResourcePack=C:\Users\Ashish\OneDrive\Cyberoam\CyberoamLite\CyberoamLite\bin\ARM\Release\CyberoamLite_1.3.0.0_scale-140.appx

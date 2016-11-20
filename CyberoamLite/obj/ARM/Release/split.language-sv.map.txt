@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sv"
+"ResourceDimensions"		"language-sv-se"
+
+[Files]
+"C:\Users\Ashish\OneDrive\Cyberoam\CyberoamLite\CyberoamLite\obj\ARM\Release\split.language-sv.pri"			"resources.pri"
